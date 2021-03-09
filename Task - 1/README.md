@@ -1,8 +1,8 @@
 # Task - 1
-<br>
 ## Prediction Using Supervised Learning
-<br> 
 **Objective(s)**: To predict the percentage of a student based on study hours
+
+### Details -
 <ul>
   <li> <b>Programming Language:</b> Python
   <li> <b>Platform Used:</b> Jupyter Notebooks
